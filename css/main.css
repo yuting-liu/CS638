@@ -101,7 +101,6 @@ body {
 .row {
     margin-right: 0px;
     margin-left: -15px;
-    text-align: left;
 }
 
 .modal-header {
@@ -263,6 +262,9 @@ a:after {
 
 .col-lg-12 img {
     margin: 10px 10px 10px 10px;
+}
+.col-md-6 {
+    text-align: left;
 }
 
 .row {
