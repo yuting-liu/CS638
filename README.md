@@ -9,4 +9,4 @@ We wrote the web crawlers and parsers to collect data on [YELP](https://www.yelp
 
 The data includs roughly 3000 restaurants in four cities: Chicago, New York City, San Fransisco, and Seattle. We collect the fundatmental information, such as telephone number, address, zip code; and also some additional highlights information including delivery services, take out services, outdoor seating and Wifi.
 
-To see more details, please see at [HERE](https://yuting-liu.github.io/CS638)
+To see more details, please see at [HERE](https://yuting-liu.github.io/CS638-Demo)
