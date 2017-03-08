@@ -14,4 +14,14 @@ We analyzed the data quality of two tables we got from the Stage I.
 
 We chose 10 attributes to get the detailed information about what type of values these attributes could be. We also discussed all problems of data quality that exist in our files and that possibly exist in different cases.
 
+
+### STAGE III BLOCKING
+We took two tables from Yelp and Yomato. Then we matched the tuple pairs from two input tabels to output a new table C.
+
+### STAGE IV MATCHER EVALUATION
+We created golden data and then used it to find the best matcher and measure the performance of the matcher. 
+
+### STAGE V DATA MERGE AND ANALYSIS
+After combining the data from Yelp and Yomato, we performed the ayalysis on the output data.
+
 To see more details, please see at [HERE](https://yuting-liu.github.io/CS638-Demo)
