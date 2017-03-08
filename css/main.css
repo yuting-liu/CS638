@@ -426,8 +426,12 @@ a.btn:hover, a.btn:focus {
     width: 100%;
     background-size: cover;
 }
+#stage5 {
+    background: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.76) 80%), url('../img/bg/Contact.jpg');
+    width: 100%;
+    background-size: cover;
+}
 #team {
-    background: linear-gradient(to bottom, rgba(255,255,255,0.8) 0%,rgba(255,255,255,0.8) 60%), url('../img/bg/Contact.jpg');
     font-color: #ffffff;
     background-size: cover;
     width: 100%;
